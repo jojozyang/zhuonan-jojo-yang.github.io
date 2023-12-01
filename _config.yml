@@ -87,7 +87,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=rFDpFgsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://neurotree.org/neurotree/tree.php?pid=922642"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -95,7 +95,7 @@ author:
   facebook         :
   foursquare       :
   github           : "https://jojozyang.github.io/zhuonan-jojo-yang.github.io/"
-  location         : "https://neurotree.org/neurotree/tree.php?pid=922642"
+  location         : 
   google_plus      :
   keybase          :
   instagram        :
