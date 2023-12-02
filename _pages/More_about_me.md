@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "More about me"
 permalink: /More about me/
 author_profile: true
 redirect_from:
@@ -41,6 +40,7 @@ Yunnan is famous for its biological and ethnic diversity, and I am part of the â
 <br /> 
 One of my childhood passions was observing and immersing myself in the sheer diversity of the biological world. My twin sister and I loved to run around in the woods, observing all of the living things in the forest, changing, growing, and carrying out their unique life cycles. My father would present us with interesting math questions embedded in stories and elements of the surrounding environment. The three of us would spend hours discussing ideas and piecing our logical analysis and clues together to collaboratively solve the problems.
 
+<br /> 
 <br /> 
 <img src="https://jojozyang.github.io/zhuonan-jojo-yang.github.io/images/ra.jpg" alt="pretty picture" width="32%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
 When I was 8, our family moved to Kunming, the capital city of Yunnan, where I was exposed to people who speak different regional dialects, and few people understood the dialect from my hometown. I came to the US by myself when I was 18 for undergraduate studies. Communication, let alone having the sense of belonging, was initially challenging because how people speak in daily life is very different from what I learned in textbooks. Luckily, I encountered friends who were patient in introducing me to local sayings and culture. 
