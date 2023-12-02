@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "More about me"
 permalink: /More about me/
 author_profile: true
 redirect_from:
