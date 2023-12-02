@@ -46,6 +46,7 @@ When I was 8, our family moved to Kunming, the capital city of Yunnan, where I w
 
 Knowing how challenging it is to adapt to unfamiliar environments and wanting to help others with similar experiences, I tutored first-generation students in math, physics and chemistry at Johns Hopkins University. I served as a Residence Advisor for two years. I grew and learned a lot in the process of building a community through listening to my residents’ stories, identifying their individual needs, connecting them to resources, and empowering their personal growth.
 
+<br /> 
 <img src="https://jojozyang.github.io/zhuonan-jojo-yang.github.io/images/Baltimore.jpg" alt="pretty picture" width="25%" style="padding-left: 1%; padding-top: 0.5%; float: right;">
 <br /> 
 Outside of campus, I volunteered at a non-profit organization called The Hero Lab to engage with and empower at-risk youth in Baltimore through positive psychology and community building projects. It was a valuable experience for me to experience the city beyond the Hopkins bubble. 
