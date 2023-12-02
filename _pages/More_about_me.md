@@ -42,7 +42,8 @@ One of my childhood passions was observing and immersing myself in the sheer div
 
 <br /> 
 <br /> 
-<img src="https://jojozyang.github.io/zhuonan-jojo-yang.github.io/images/ra.jpg" alt="pretty picture" width="32%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
+<img src="https://jojozyang.github.io/zhuonan-jojo-yang.github.io/images/ra.jpg" alt="pretty picture" width="35%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
+<br /> 
 When I was 8, our family moved to Kunming, the capital city of Yunnan, where I was exposed to people who speak different regional dialects, and few people understood the dialect from my hometown. I came to the US by myself when I was 18 for undergraduate studies. Communication, let alone having the sense of belonging, was initially challenging because how people speak in daily life is very different from what I learned in textbooks. Luckily, I encountered friends who were patient in introducing me to local sayings and culture. 
 
 Knowing how challenging it is to adapt to unfamiliar environments and wanting to help others with similar experiences, I tutored first-generation students in math, physics and chemistry at Johns Hopkins University. I served as a Residence Advisor for two years. I grew and learned a lot in the process of building a community through listening to my residents’ stories, identifying their individual needs, connecting them to resources, and empowering their personal growth.
