@@ -29,4 +29,4 @@ a.rec:visited {
 ## Computational processes that contribute to complex animal behavior
 {: style="text-align: justify" }
 Loren Frank Lab | UCSF 
-<iframe width="420" height="315" src="https://youtu.be/gYmR4Ijd7zc" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gYmR4Ijd7zc?si=EoS8N_UzEDxQqea6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
