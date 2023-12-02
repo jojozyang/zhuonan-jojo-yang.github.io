@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Research Projects"
-permalink: /projects/
+permalink: /More about me/
 author_profile: true
 redirect_from:
-  - /projects
+  - /More about me
 ---
 
 <head>
