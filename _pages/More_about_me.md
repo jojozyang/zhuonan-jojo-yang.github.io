@@ -37,7 +37,8 @@ Yunnan is famous for its biological and ethnic diversity, and I am part of the â
 <br /> 
 
 <br /> 
-<img src="https://jojozyang.github.io/zhuonan-jojo-yang.github.io/images/woods_learn.JPG" alt="pretty picture" width="35%" style="padding-left: 1%; padding-top: 0.5%; float: right;">
+<img src="https://jojozyang.github.io/zhuonan-jojo-yang.github.io/images/woods_learn.JPG" alt="pretty picture" width="40%" style="padding-left: 1%; padding-top: 0.5%; float: right;">
+<br /> 
 One of my childhood passions was observing and immersing myself in the sheer diversity of the biological world. My twin sister and I loved to run around in the woods, observing all of the living things in the forest, changing, growing, and carrying out their unique life cycles. My father would present us with interesting math questions embedded in stories and elements of the surrounding environment. The three of us would spend hours discussing ideas and piecing our logical analysis and clues together to collaboratively solve the problems.
 
 <br /> 
