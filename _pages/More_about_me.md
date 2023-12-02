@@ -44,7 +44,7 @@ Knowing how challenging it is to adapt to unfamiliar environments and wanting to
 <img src="/images/ra.jpg" alt="pretty picture" width="35%" style="padding-left: 1%; padding-top: 0.5%; float: right;">\
 
 Outside of campus, I volunteered at a non-profit organization called The Hero Lab to engage with and empower at-risk youth in Baltimore through positive psychology and community building projects. It was a valuable experience for me to experience the city beyond the Hopkins bubble. 
-<img src="https://zhuonan-jojo-yang.github.io/zhuonan-jojo-yang.github.io/images/Baltimore.jpg" alt="pretty picture" width="35%" style="float: top">\
+<img src="https://jojozyang.github.io/zhuonan-jojo-yang.github.io/images/Baltimore.jpg" alt="pretty picture" width="35%" style="float: top">\
 
 After graduating when I worked at UCSF, I became close friends with a group of international researchers. We frequently gathered on weekends and shared our culture. For example, I hosted a dumpling party during Chinese New Year and an Indian friend hosted a Dosa Night. I also met my husband, who is from the rural midwest of America, and we had a multicultural wedding combining American and Chinese traditions. 
 
