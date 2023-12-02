@@ -27,12 +27,12 @@ a.rec:visited {
 
 {: style="text-align: justify" }
 <img src="https://jojozyang.github.io/zhuonan-jojo-yang.github.io/images/Yunnan.jpg" alt="pretty picture" width="35%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
-<br /> 
 I was born in Fengqing, a small city in the province of Yunnan in southwest China. 
 
 "Yun" (云) means clouds as Yunnan is situated on Yungui Plateau (云贵高原）. "Nan" (南) means south as Yunnan is in southwest of China. 
 
 Yunnan is famous for its biological and ethnic diversity, and I am part of the “Yi” ethnic group.
+<br /> 
 <br /> 
 
 <br /> 
